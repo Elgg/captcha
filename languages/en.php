@@ -1,8 +1,8 @@
 <?php
 /**
- * Elgg diagnostics language pack.
+ * Elgg captcha language pack.
  *
- * @package ElggDiagnostics
+ * @package ElggCaptcha
  */
 
 $english = array(
